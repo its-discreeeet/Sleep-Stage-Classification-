@@ -18,5 +18,3 @@ This project aims to perform **sleep stage classification** and **sleep apnea pr
 
 6. **train_model.ipynb**  
    - This notebook contains the training of the deep learning models for both sleep stage classification and sleep apnea prediction. It includes the implementation of **Attention Augmented CNN + BiLSTM** for model training, evaluation, and tuning.
-  
-   - 
