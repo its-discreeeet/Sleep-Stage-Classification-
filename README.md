@@ -1,6 +1,6 @@
 # Sleep Stage Classification and Sleep Apnea Prediction
 
-This project aims to perform **sleep stage classification** and **sleep apnea prediction** using the [SleepEDF]([url](https://www.physionet.org/content/sleep-edf/1.0.0/)) Dataset and the [Apnea-ECG]([url](https://physionet.org/content/apnea-ecg/1.0.0/)) Database. The models utilize deep learning techniques to analyze sleep data, classify stages, and predict the occurrence of sleep apnea events. This project uses a series of Jupyter Notebooks to preprocess data, train models, and evaluate performance.
+This project aims to perform **sleep stage classification** and **sleep apnea prediction** using the [SleepEDF](https://www.physionet.org/content/sleep-edf/1.0.0/) Dataset and the [Apnea-ECG](https://physionet.org/content/apnea-ecg/1.0.0/) Database. The models utilize deep learning techniques to analyze sleep data, classify stages, and predict the occurrence of sleep apnea events. This project uses a series of Jupyter Notebooks to preprocess data, train models, and evaluate performance.
 
 ## Project Files
 
